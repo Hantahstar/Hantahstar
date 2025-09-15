@@ -8,9 +8,18 @@
 <h3 align="center">Hey there, I'm Matías - aka Hantahstar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://twitter.com/Hantahstars"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Hantahstars?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Hantahstar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Hantahstar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Hantahstar"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://twitter.com/Hantahstars">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Hantahstars?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Hantahstar">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Hantahstar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
+  <a href="https://www.youtube.com/c/@hantahstar6299">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://x.com/hantahstars">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ## 📖 About me
@@ -34,14 +43,6 @@
 </p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/Hantahstar?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-## 🙋‍♂️ Connect with me:
-
-<p align="left">
-  <a href="https://www.youtube.com/@hantahstar6299"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-thebadge&logo=youtube&logoColor=white"><a>
-  <a href="https://x.com/hantahstars"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
 
 ## 👨‍💻 Languages and Tools:
 
